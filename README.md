@@ -5,10 +5,10 @@ The application features a shared display and multiple calculator modes organize
 
 ## Screenshot
 <p align="center">
-  <img src="images/calculator-orange.png" width="500">
+  <img src="images/calculator-orange.png" width="200">
 </p>
 
-## Features
+### Features
 
 ## Shared Display
 All calculator modes use a single unified input/display field at the top of the interface.
