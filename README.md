@@ -5,7 +5,7 @@ The application features a shared display and multiple calculator modes organize
 
 ## Screenshot
 <p align="center">
-  <img src="images/calculator-orange.png" width="200">
+  <img src="images/calculator-orange.png" width="300">
 </p>
 
 ### Features
