@@ -1,23 +1,27 @@
 ## Unified Advanced Calculator
 
 A multi‑function desktop calculator built with Python and Tkinter.
-Designed with a shared input field and multiple calculator modes organized into tabs, including Basic, Scientific, and Modern ttk‑styled interfaces. Also includes a global theme system and scientific Degree/Radian toggle.
+The application features a shared display and multiple calculator modes organized into tabs, including Basic, Scientific, and Modern ttk-styled interfaces. It also includes a global theme system, keyboard/keypad support, and a scientific Degree/Radian toggle.
+
+## Screenshot
+
+
 
 ## Features
 
-### ✔ Shared Display
+## Shared Display
 All calculator modes use a single unified input/display field at the top of the interface.
-### ✔ Multiple Calculator Tabs
+## Multiple Calculator Tabs
 This application isorganized using a ttk.Notebook with three calculator modes.
 
 ### Basic Calculator
 - Standard operations (+, –, ×, ÷)
 - Decimal support
 - Memory functions:
--- MC – Clear memory
--- MR – Recall memory
--- M+ – Add to memory
--- M- – Subtract from memory
+  - MC – Clear memory
+  - MR – Recall memory
+  - M+ – Add to memory
+  - M- – Subtract from memory
 - Uses Python’s eval() for evaluation
 
 ###  Scientific Calculator
@@ -25,8 +29,8 @@ Includes advanced mathematical operations:
 - Trigonometric functions: sin, cos, tan
 - Square root: sqrt
 - Logarithms:
---  log (base 10)
---  ln (natural log)
+  - log (base 10)
+  - ln (natural log)
 - pi constant
 - Factorial: !
 - Parentheses for complex expressions
@@ -66,10 +70,10 @@ Users can:
 - Press the Enter key to evaluate expressions
 
 ## Technologies Used
--Python
--Tkinter
--ttk
--math
+- Python
+- Tkinter
+- ttk
+- math
 
 No external libraries are required.
 
