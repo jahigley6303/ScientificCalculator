@@ -84,12 +84,15 @@ No external libraries are required.
 Python 3.x 
 
 The application uses only Python standard libraries:
-- tkinter
-- math
-
+```text
+tkinter
+math
+```
 ### Run the Program
+```text
+</>Bash
 python calculator.py
-
+```
 ### Project Structure
 
 ```text
