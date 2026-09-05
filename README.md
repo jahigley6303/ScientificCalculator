@@ -122,7 +122,9 @@ The application uses Tkinter for the main window and interface components. A ttk
 Basic error handling is included to prevent the application from crashing.
 
 Invalid expressions display:
-- Error
+```text
+Error
+```
 
 ## Known Limitations
 - The Basic and Modern calculator modes use eval() for expression evaluation. This is acceptable for a local calculator project but would not be recommended for evaluating untrusted user input.
