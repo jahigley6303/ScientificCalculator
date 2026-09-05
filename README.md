@@ -3,16 +3,16 @@
 A multi‑function desktop calculator built with Python and Tkinter.
 The application features a shared display and multiple calculator modes organized into tabs, including Basic, Scientific, and Modern ttk-styled interfaces. It also includes a global theme system, keyboard/keypad support, and a scientific Degree/Radian toggle.
 
-## Screenshot
+### Screenshot
 <p align="center">
   <img src="images/calculator-orange.png" width="300">
 </p>
 
 ### Features
 
-## Shared Display
+### Shared Display
 All calculator modes use a single unified input/display field at the top of the interface.
-## Multiple Calculator Tabs
+### Multiple Calculator Tabs
 This application isorganized using a ttk.Notebook with three calculator modes.
 
 ### Basic Calculator
@@ -47,7 +47,7 @@ A modern calculator interface using ttk widgets.
 - Uses ttk.Button components
 - Provides the same core functionality as the Basic Calculator
 
-## Theme System
+### Theme System
 Theme buttons allow users to change the application's color scheme dynamically.
 
 Available themes include:
@@ -62,7 +62,7 @@ Themes changes update:
 - Calculator buttons
 - Calculator tabs and interface styling
 
-## Keyboard Support
+### Keyboard Support
 The calculator supports keyboard and keypad input for faster operation.
 
 Users can:
@@ -70,7 +70,7 @@ Users can:
 - Use arithmetic operators
 - Press the Enter key to evaluate expressions
 
-## Technologies Used
+### Technologies Used
 - Python
 - Tkinter
 - ttk
@@ -90,13 +90,16 @@ The application uses only Python standard libraries:
 ### Run the Program
 python calculator.py
 
-## Project Structure
+### Project Structure
+
+```text
 Unified-Advanced-Calculator/
 │
 ├── calculator.py
 ├── README.md
 └── images/
     └── calculator-orange.png
+```
 
 ## How It Works
 
