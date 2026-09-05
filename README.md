@@ -4,8 +4,9 @@ A multi‑function desktop calculator built with Python and Tkinter.
 The application features a shared display and multiple calculator modes organized into tabs, including Basic, Scientific, and Modern ttk-styled interfaces. It also includes a global theme system, keyboard/keypad support, and a scientific Degree/Radian toggle.
 
 ## Screenshot
+<img width="409" height="437" alt="image" src="images/calculator-orange.png" />
 
-
+calculator-orange.png
 
 ## Features
 
