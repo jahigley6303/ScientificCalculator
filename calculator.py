@@ -10,7 +10,7 @@ class UnifiedCalculatorApp:
         self.root = root_window
         self.root.title("Scientific Calculator")
 
-        # Shared state
+        # Shared State
 
         self.angle_mode = "DEG"  # DEG or RAD
         self.theme_color = "lightgray"
